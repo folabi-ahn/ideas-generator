@@ -3,8 +3,9 @@
 ## Geography to Start: Spain
 
 **Why Spain first:**
-- 92% WhatsApp penetration — highest in Europe
-- Huge restaurant/hospitality sector, all using WhatsApp manually
+- ~91% WhatsApp penetration (Statista) — highest in Europe alongside Italy
+- Large restaurant/hospitality sector with very low digital maturity (METRO study: only 31% of EU restaurateurs use digital tools at intermediate+ level)
+- 70%+ of Spanish hoteliers investing in digitization but lack expertise (Tubot.es)
 - Warm business culture — phone/WhatsApp outreach is normal and accepted
 - Less saturated than Germany (Chatarmin has Germany somewhat covered)
 - Easy to expand to Portugal, LatAm with same language
